@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marco Zero - Recife</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        img {
+            width: 100%;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Marco Zero - Recife</h1>
+    </header>
+
+    <div class="container">
+        <img src="marco-zero-recife.jpg" alt="Marco Zero - Recife">
+        <p>O Marco Zero é um dos pontos turísticos mais famosos de Recife. Localizado no Bairro do Recife, às margens do Rio Capibaribe, é o ponto inicial para contagem das distâncias rodoviárias do Recife. Além disso, é um importante marco histórico e cultural da cidade.</p>
+        
+        <p>O local é conhecido por sua grande rosa dos ventos em seu piso central, que possui 32 metros de diâmetro. Ao redor, os visitantes podem desfrutar de uma vista panorâmica do rio e das construções históricas ao seu redor, como o Cais da Alfândega e o Armazém 14.</p>
+        
+        <p>O Marco Zero também é palco de diversas festividades e eventos culturais ao longo do ano, sendo um ponto de encontro para moradores e turistas.</p>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Marco Zero Recife. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
+
